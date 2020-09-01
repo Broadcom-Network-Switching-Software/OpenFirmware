@@ -8,4 +8,4 @@ The binaries are covered by the license terms in License.txt.
 
 Supported devices
 =================
-This release has support for DNX switch devices such as Qumran (Q2A)
+This release has support for DNX switch devices such as Qumran (Q2A) , Jericho2C (J2C), Firelight (FL).
