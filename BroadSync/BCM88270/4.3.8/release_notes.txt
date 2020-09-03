@@ -1,0 +1,1 @@
+This release has support for BCM88270 against SDK-6.5.14 release.
