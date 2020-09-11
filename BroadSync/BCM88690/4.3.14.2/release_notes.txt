@@ -1,0 +1,1 @@
+This release has support for BCM88690 against SDK-6.5.20 release.
