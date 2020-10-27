@@ -1,0 +1,1 @@
+This release has support for BCM56870 against SDK-6.5.16 release. IFA 1.1 is discontinued and Broadcom asking all customers to move to IFA 2.0.
