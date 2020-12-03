@@ -8,4 +8,4 @@ The binaries are covered by the license terms in License.txt.
 
 Supported devices
 =================
-This release has support for switch devices such as Qumran (Q2A, QUX), Jericho2 (JR2), Jericho2C (J2C), and Firelight (FL) for Broadsync. BFD, IFA-1.1 support is available for Trident3.
+This release has support for switch devices such as Qumran (Q2A, QUX), Jericho2 (JR2), Jericho2C (J2C), and Firelight (FL) for Broadsync. BFD, IFA-1.1, MOD support is available for Trident3 and MOD support for TH3.
